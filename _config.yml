@@ -70,7 +70,9 @@ plugins:
  - jemoji
  - jekyll-sitemap
  - jekyll-feed
-
+ 
+emoji:
+  src: "//github.githubassets.com/images/icons/emoji/unicode/"
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
