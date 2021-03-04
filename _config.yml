@@ -72,7 +72,7 @@ plugins:
  - jekyll-feed
  
 emoji:
-  src: "//github.githubassets.com/images/icons/emoji/unicode/"
+  src: "//github.githubassets.com/images/icons"
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
