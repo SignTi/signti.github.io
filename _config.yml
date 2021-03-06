@@ -217,7 +217,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/phantomfrost
-  
+
+reward_comment: 请我喝杯奶茶
+wechatpay: /assets/images/avatar.png
 
 # Social Links Icons
 # Icon Mapping:
