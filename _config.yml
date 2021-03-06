@@ -124,9 +124,10 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
+  reward: /reward/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
-
+  
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -144,6 +145,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  reward: heartbeat
 
 
 
@@ -218,8 +220,6 @@ font:
 social:
   GitHub: https://github.com/phantomfrost
 
-reward_comment: 请我喝杯奶茶
-wechatpay: /assets/images/avatar.png
 
 # Social Links Icons
 # Icon Mapping:
