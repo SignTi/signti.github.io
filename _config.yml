@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Blog | Test
-subtitle: Welcome!
-description: Where there is a will, there is a way.
-author: Kwan Xue
+title: Blog | 名字
+subtitle: 签名
+description: 个人签名
+author: 名字2
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -125,6 +125,7 @@ menu:
   archives: /archives/
   tags: /tags/
   reward: /reward/
+  test2: /test2/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
   
