@@ -125,6 +125,7 @@ menu:
   archives: /archives/
   tags: /tags/
   reward: /reward/
+  test: /test/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
   
@@ -146,6 +147,7 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
   reward: coffee
+  test: blind
 
 
 
